@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Simple Number Guess Game/1.0.0": {
+        "runtime": {
+          "Simple Number Guess Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Number Guess Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

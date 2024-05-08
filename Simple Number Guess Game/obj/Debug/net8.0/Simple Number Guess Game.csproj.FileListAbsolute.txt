@@ -1,0 +1,14 @@
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\Simple Number Guess Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\Simple Number Guess Game.AssemblyInfoInputs.cache
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\Simple Number Guess Game.AssemblyInfo.cs
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\Simple Number Guess Game.csproj.CoreCompileInputs.cache
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\bin\Debug\net8.0\Simple Number Guess Game.exe
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\bin\Debug\net8.0\Simple Number Guess Game.deps.json
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\bin\Debug\net8.0\Simple Number Guess Game.runtimeconfig.json
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\bin\Debug\net8.0\Simple Number Guess Game.dll
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\bin\Debug\net8.0\Simple Number Guess Game.pdb
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\Simple Number Guess Game.dll
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\refint\Simple Number Guess Game.dll
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\Simple Number Guess Game.pdb
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\Simple Number Guess Game.genruntimeconfig.cache
+C:\Users\Marcel Meiners\Desktop\Projekte\Simple Number Guess Game\Simple Number Guess Game\obj\Debug\net8.0\ref\Simple Number Guess Game.dll
